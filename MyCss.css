@@ -1,0 +1,50 @@
+body{
+    font-size: 20px;
+    font-family: Tahoma;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+h3{
+    font-size: 40px;
+}
+#title, #img-div, #img-caption, #tribute-info, #resume, #activities, #further{
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#main{
+    background-color: linear-gradient(#f3f3f3,#e5e4e4) ;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.row > div {
+    padding: 20px 10px;
+    background: linear-gradient(#717172,#575757);
+    /*border: 1px solid #5383fe;*/
+  }
+.rounded-circle {
+    border: 1px solid gray;
+    height: 300px;
+}
+#img-div{
+    padding: 20px 10px;
+}
+#title{
+    padding-top: 40px;
+    padding-bottom: 10px;
+}
+footer{
+    top: 5px;
+    bottom: 5px;
+    text-size-adjust: 30px;
+}
+.bobmarley{
+  padding: 5px;
+  text-align: right;
+  margin-right:100;
+}
